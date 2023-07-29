@@ -1,2 +1,2 @@
 # Beginner
-Small Contributions
+Made a simple rock, paper & scissor game using Java.
