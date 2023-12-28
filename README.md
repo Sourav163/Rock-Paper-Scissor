@@ -4,6 +4,6 @@
 
 &emsp; Here's a Preview :
 
-<img src="https://github.com/Sourav163/Rock-Paper-Scissor/blob/main/rps.png" alt="Gameplay Screenshot">
+![rps](https://github.com/Sourav163/Rock-Paper-Scissor/assets/116519493/ae635b09-568c-411f-a6a5-d665c01bcc07)
 
 &emsp; &emsp; Happy Gaming : )
